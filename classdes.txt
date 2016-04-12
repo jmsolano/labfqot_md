@@ -1,0 +1,13 @@
+Clases por diseñar:
+
+Fuerzas de Van der Walls.
+   ---> Coordenadas de todas las partículas
+   ---> Vector de fuerzas/aceleraciones
+   ---> Condiciones periódicas
+       ---> Criterios para creación/destrucción de partículas
+   ---> Función de energía potencial 
+       ---> requiere 4 parametros coefs, exponentes (al principio).
+       ---> Para cada paso de tiempo: posiciones de dos partículas, donde guardar la fuerza.
+Lector
+Escritor
+*Renderer
