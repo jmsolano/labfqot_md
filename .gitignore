@@ -1,0 +1,8 @@
+#File extensions
+*.DS_Store
+*.o
+*.a
+
+#Specific files
+main
+
